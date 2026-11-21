@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-21",
+  "timezone": "UTC+7",
+  "deviceId": "dev_bbbb3993",
+  "ext_version": "0.1.0",
+  "plan_version": "2026-W49",
+  "main_task": {
+    "task_id": "listening_dictation",
+    "mode": "MEDIA_STUDY",
+    "status": "COMPLETED",
+    "started_at": "2026-11-21T20:34:38+07:00",
+    "ended_at": "2026-11-21T20:34:38+07:00",
+    "duration_sec_hidden": 0,
+    "output": {
+      "video_url": "fa",
+      "error_notes": "đâ",
+      "submitted_before_transcript": true
+    },
+    "dictation": {
+      "accuracyPct": 100,
+      "accuracy_pct": 100,
+      "matchedCount": 1,
+      "refWordCount": 1,
+      "submitted_before_transcript": true,
+      "error_notes": "đâ",
+      "video_url": "fa"
+    },
+    "delayed_sync": false
+  }
+}

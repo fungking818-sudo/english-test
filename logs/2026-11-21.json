@@ -26,5 +26,12 @@
       "video_url": "fa"
     },
     "delayed_sync": false
+  },
+  "anki": {
+    "cards_reviewed": 10,
+    "delayed_sync": true,
+    "note": "hello",
+    "status": "COMPLETED",
+    "submitted_at": "2026-11-21T20:16:47+07:00"
   }
 }

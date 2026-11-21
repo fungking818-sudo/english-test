@@ -8,12 +8,12 @@
     "task_id": "listening_dictation",
     "mode": "MEDIA_STUDY",
     "status": "COMPLETED",
-    "started_at": "2026-11-21T20:34:38+07:00",
-    "ended_at": "2026-11-21T20:34:38+07:00",
+    "started_at": "2026-11-21T20:34:40+07:00",
+    "ended_at": "2026-11-21T20:34:40+07:00",
     "duration_sec_hidden": 0,
     "output": {
       "video_url": "fa",
-      "error_notes": "đâ",
+      "error_notes": "đâda",
       "submitted_before_transcript": true
     },
     "dictation": {
@@ -22,7 +22,7 @@
       "matchedCount": 1,
       "refWordCount": 1,
       "submitted_before_transcript": true,
-      "error_notes": "đâ",
+      "error_notes": "đâda",
       "video_url": "fa"
     },
     "delayed_sync": false

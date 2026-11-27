@@ -9,21 +9,21 @@
     "dictation": {
       "accuracyPct": 100,
       "accuracy_pct": 100,
-      "error_notes": "fafa",
+      "error_notes": "đâ",
       "matchedCount": 1,
       "refWordCount": 1,
       "submitted_before_transcript": true,
-      "video_url": "fafa"
+      "video_url": "fa"
     },
-    "duration_sec_hidden": 0,
-    "ended_at": "2026-11-21T20:33:04+07:00",
+    "duration_sec_hidden": 7,
+    "ended_at": "2026-11-21T20:33:23+07:00",
     "mode": "MEDIA_STUDY",
     "output": {
-      "error_notes": "fafa",
+      "error_notes": "đâ",
       "submitted_before_transcript": true,
-      "video_url": "fafa"
+      "video_url": "fa"
     },
-    "started_at": "2026-11-21T20:33:03+07:00",
+    "started_at": "2026-11-21T20:33:16+07:00",
     "status": "COMPLETED",
     "task_id": "listening_dictation"
   },
